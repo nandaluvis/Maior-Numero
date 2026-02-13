@@ -54,6 +54,6 @@ O programa realiza:
    - Se o segundo for maior → exibe o segundo  
    - Se forem iguais → informa que os números são iguais  
 
----
+
 
 
